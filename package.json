@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@ledgerhq/hw-transport-node-hid": "^6.28.6",
+    "@zondax/ledger-ironfish": "^0.0.2",
+    "tsx": "^4.7.2"
+  },
+  "scripts": {
+    "start": "tsx script.ts"
+  }
+}
